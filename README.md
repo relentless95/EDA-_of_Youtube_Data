@@ -1,5 +1,5 @@
 
-## Exploratory data analysis (EDA) Of Top Youtube channels
+## Exploratory data analysis (EDA) of Top Youtube channels
 
 ### Project description
 The goal of this project is to get insights from the __most_subscribed_youtube_channels__ dataset using python. The dataset is from kaggle and contains general information about the top youtube channels.
